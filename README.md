@@ -34,6 +34,17 @@ dengan `r = (c·dt/dx)² = 1` (diperoleh dari dx = 0.1, dt = 0.05), yang memenuh
 | `Project 1 Persamaan Gelombang.xlsx` | Tabel hasil numerik                     |
 | `UNTITLED.opju`         | Proyek Origin (di-ignore dari git)                     |
 | `pers_gel.exe`          | Biner Windows hasil kompilasi (di-ignore dari git)     |
+| `results/`              | Plot hasil regenerasi dari data xlsx                   |
+| `results/u_data.npy`    | Data numerik u(x,t) hasil ekstraksi dari xlsx          |
+
+## Hasil
+
+Plot di bawah dibuat ulang dari data numerik `Project 1 Persamaan Gelombang.xlsx`
+(cocok dengan output `pers_gel.cpp`, min/maks ±1.76007).
+
+![Surface 3D u(x,t)](results/plot_3d_surface.png)
+![Heatmap u(x,t)](results/plot_heatmap.png)
+![Profil u(x,t) pada beberapa waktu](results/plot_profil.png)
 
 ## Menjalankan
 
