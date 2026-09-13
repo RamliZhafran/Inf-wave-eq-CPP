@@ -50,3 +50,4 @@ MATLAB/Octave:
 - `Nx = 11` titik ruang (x = 0 s.d. 1, step 0.1)
 - `Nt = 11` langkah waktu (t = 0 s.d. 0.5, step 0.05)
 - Matriks solusi `u[i][j]`, i = posisi, j = waktu
+# Inf-wave-eq-CPP
