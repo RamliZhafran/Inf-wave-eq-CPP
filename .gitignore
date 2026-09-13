@@ -1,0 +1,6 @@
+# Hasil kompilasi (regenerable dari pers_gel.cpp)
+*.exe
+
+# File proyek Origin (data kerja)
+*.opju
+.opju.bak
